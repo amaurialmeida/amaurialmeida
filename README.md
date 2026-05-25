@@ -26,7 +26,39 @@
 
 ---
 
-## 🌎 Monitoramento Ambiental em Tempo Real (Demo ao vivo)
+## 📊 PORTFÓLIO AMBIENTAL 2026 – DATA SCIENCE & GEOAI
+
+<div align="center">
+  <img src="Gemini_Generated_Image_faxuljfaxuljfaxu.png" alt="Portfólio Ambiental - Data Science & GeoAI 2026" width="100%" style="max-width: 900px; border-radius: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+</div>
+
+<br/>
+
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/10_PROJETOS-2E7D32?style=flat-square" />
+    <img src="https://img.shields.io/badge/10_DASHBOARDS-2E7D32?style=flat-square" />
+    <img src="https://img.shields.io/badge/6_MODELOS-2E7D32?style=flat-square" />
+    <img src="https://img.shields.io/badge/148_VISUALIZAÇÕES-2E7D32?style=flat-square" />
+    <img src="https://img.shields.io/badge/34_DATASETS-2E7D32?style=flat-square" />
+    <img src="https://img.shields.io/badge/22_REGIÕES-2E7D32?style=flat-square" />
+    <img src="https://img.shields.io/badge/3_PAÍSES-2E7D32?style=flat-square" />
+  </p>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>🔥 Impacto</b><br/>🐝 Bee Observatory<br/><small>18.400 colônias</small></td>
+      <td align="center"><b>🧠 Complexidade</b><br/>🌊 El Niño ML Forecast<br/><small>91.6% precisão</small></td>
+      <td align="center"><b>💾 Big Data</b><br/>💨 Patagonia Wind Energy<br/><small>2.8M registros</small></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🌎 Monitoramento Ambiental em Tempo Real (ao vivo)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Temperatura_Global-11.1°C-2E7D32?style=flat-square&logo=googleearth" />
